@@ -1,0 +1,46 @@
+{
+  "question_list": [
+    {
+      "id": 17,
+      "points": 10,
+      "title": "Who is the Founder of Pakistan?"
+    },
+    {
+      "id": 18,
+      "points": 20,
+      "title": "When is Pakistan Day?"
+    }
+  ],
+  "options_list": [
+    {
+      "id": 57,
+      "title": "23 March",
+      "related_question": 18,
+      "correct_answer_to_question": 18
+    },
+    {
+      "id": 58,
+      "title": "24 March",
+      "related_question": 18,
+      "correct_answers": null
+    },
+    {
+      "id": 59,
+      "title": "Quaid e Azam",
+      "related_question": 17,
+      "correct_answer_to_question": 17
+    },
+    {
+      "id": 60,
+      "title": "Allama Iqbal",
+      "related_question": 17,
+      "correct_answers": null
+    },
+    {
+      "id": 61,
+      "title": "Sir Syed Ahmad Khan",
+      "related_question": 17,
+      "correct_answers": null
+    }
+  ]
+}
